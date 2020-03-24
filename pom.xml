@@ -11,7 +11,7 @@
   </parent>
   <groupId>com.openshift.jenkins</groupId>
   <artifactId>openshift-pipeline</artifactId>
-  <version>1.0.57-SNAPSHOT</version>
+  <version>1.0.58-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <build>
@@ -112,7 +112,7 @@
   	<dependency>
     	<groupId>org.yaml</groupId>
     	<artifactId>snakeyaml</artifactId>
-    	<version>1.16</version>
+    	<version>1.26</version>
   	</dependency>
 
         <dependency>
