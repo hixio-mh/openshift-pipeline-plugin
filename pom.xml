@@ -106,7 +106,7 @@
 	<dependency>
 	    <groupId>com.openshift</groupId>
 	    <artifactId>openshift-restclient-java</artifactId>
-	    <version>5.9.6.Final</version>
+	    <version>7.0.0.Final</version>
 	</dependency> 
     
   	<dependency>
