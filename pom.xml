@@ -62,7 +62,7 @@
   </licenses>
   
     <properties>
-        <workflow.version>1.11</workflow.version>
+        <workflow.version>2.65</workflow.version>
     </properties>
     
   <repositories>
